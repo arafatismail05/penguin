@@ -1,0 +1,25 @@
+html {
+    background-color: rgb(242, 204, 255);
+    
+}
+h1 {
+    color: red;
+}
+h2 {
+    color: grey;
+    text-align: left;
+}
+h3 {
+    color: green;
+    text-align: left;
+}
+div{
+    text-align: center;
+    font-family: Impact, Charcoal, sans-serif;
+    background-color: white
+    ;
+}
+
+h6 {
+    text-align: right;
+}
